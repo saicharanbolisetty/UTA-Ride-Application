@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_b56e0024c0fb2dde25e26b880a2dd9a4aec7b084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_6ae4c6efd0f83c23a702da3b55ab6cf3168b1c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_ad041b7aa6810aaedd8689935e2d7e391cb387d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\libs\additionnal (1).jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\additionnal (1)_ecf70a82b758f5582fcb4d7c397fe246ee61278e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8fafa8e90880b531143b293cf36ad83930c95493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_2d66a34e210c5c6914eb939b130424dc23ca0e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_3e006091b0a1b4ae52ff9cdc86fc72f48063b9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_98cfb215d0eea10a063406187afc739d5bac351b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_55d24e9c223978543f55ed9c2c49eba469a3ab0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_7c873d7b5f2ddb69e217e1320b81c9c00e687854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5aeff71fb93e3522fef3a57eb8609556199f01b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\activation_59e860200d665498bc86c5aab84345019ac237d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_13b0b35c24113e123d64f536de62e2dc90bd09d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_e9cf7b9c10694bc4b772947d7615092c70e0ec05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_ef9227d467061ade91d8e29f723ab715a784e3d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6368090969a22f21b1508305f4ab5239d68610c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_0454968b1f595c3ab6e63595fd795c588ed66e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_65e83fe8ac908c1a54345323831d7a44b085665a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_b3ffe3c8c2e55be789c866afdadb0f0f811c080b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6ee88acbbed3c20acab2271709e69d223ddb225e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9db78d41d363d3f17dd6e886f44c26350e6d30ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\Users\venkatsaicharan\AndroidStudioProjects\SEStartEasy1\SEStartEasy\SEStartEasy\app\build\intermediates\pre-dexed\debug\mail_a0537fccdaebc870bf8c5aa5647d15ce3052589b.jar" />
+    </item>
+
+</items>
