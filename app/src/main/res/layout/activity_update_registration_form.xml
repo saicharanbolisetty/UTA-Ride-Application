@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_registration_form"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.android.venkatsaicharan.sestarteasy.UpdateRegistrationForm">
+
+    <TextView
+        android:text="Registration Form"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/registrationForm"
+        tools:textSize="30sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/registrationForm"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:id="@+id/mformName"
+        android:hint="Full Name" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/mformNumber"
+        android:layout_below="@+id/mformName"
+        android:layout_alignLeft="@+id/mformName"
+        android:layout_alignStart="@+id/mformName"
+        android:hint="Contact Number" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="date"
+        android:ems="10"
+        android:id="@+id/mformdoa"
+        android:layout_below="@+id/mformNumber"
+        android:layout_alignLeft="@+id/mformNumber"
+        android:layout_alignStart="@+id/mformNumber"
+        android:hint="MMDDYY" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="time"
+        android:ems="10"
+        android:id="@+id/mformtoa"
+        android:layout_below="@+id/mformdoa"
+        android:layout_alignLeft="@+id/mformdoa"
+        android:layout_alignStart="@+id/mformdoa"
+        android:hint="HHMM" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/mformAddress"
+        android:layout_below="@+id/mformtoa"
+        android:layout_alignLeft="@+id/mformtoa"
+        android:layout_alignStart="@+id/mformtoa"
+        android:hint="Address" />
+
+    <TextView
+        android:text="Ride Type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/radioGroup2"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Carrier"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:layout_above="@+id/textView4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="20dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_below="@+id/radioGroup4"
+        android:layout_alignLeft="@+id/radioGroup2"
+        android:layout_alignStart="@+id/radioGroup2"
+        android:id="@+id/mpassportNumber"
+        android:hint="Passport Number"
+        android:onClick="formregisterClicked" />
+
+    <Button
+        android:text="Update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mbutton3"
+        android:onClick="mformregisterClicked"
+        android:layout_below="@+id/mpassportNumber"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Passport"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:layout_alignBaseline="@+id/mpassportNumber"
+        android:layout_alignBottom="@+id/mpassportNumber"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/radioGroup"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_below="@+id/mformAddress"
+        android:layout_alignLeft="@+id/mformAddress"
+        android:layout_alignStart="@+id/mformAddress">
+
+        <RadioButton
+            android:text="@string/yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/msimYes"
+            android:onClick="monsimClicked" />
+
+        <RadioButton
+            android:text="No"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/msimNo"
+            android:onClick="monsimClicked" />
+
+    </RadioGroup>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/radioGroup4"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_below="@+id/radioGroup2"
+        android:layout_alignLeft="@+id/mpassportNumber"
+        android:layout_alignStart="@+id/mpassportNumber">
+
+        <RadioButton
+            android:text="Shared"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mrideShared"
+            android:layout_weight="1"
+            android:onClick="monrideClicked" />
+
+        <RadioButton
+            android:text="Individual"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mrideInd"
+            android:layout_weight="1"
+            android:onClick="monrideClicked" />
+    </RadioGroup>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/radioGroup2"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="15dp"
+        android:layout_below="@+id/radioGroup"
+        android:layout_alignLeft="@+id/radioGroup"
+        android:layout_alignStart="@+id/radioGroup">
+
+        <RadioButton
+            android:text="TMobile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mcarrierTmobile"
+            android:layout_weight="1"
+            android:onClick="moncarrierClicked" />
+
+        <RadioButton
+            android:text="Lyca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mcarrierLyca"
+            android:layout_weight="1"
+            android:onClick="moncarrierClicked" />
+    </RadioGroup>
+
+    <TextView
+        android:text="Sim Card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_above="@+id/radioGroup2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="7dp" />
+
+</RelativeLayout>
